@@ -772,12 +772,12 @@ header {
         cursor: pointer; }
 
 .texture-black {
-  background-image: url("http://localhost:4000/assets/textures/black.jpg"); }
+  background-image: url("http://localhost:4000/assets/img/black.jpg"); }
   .texture-black h2 {
     color: #999; }
 
 .texture-blue {
-  background-image: url("//assets/textures/blue.jpg"); }
+  background-image: url("//assets/img/blue.jpg"); }
   .texture-blue h2 {
     color: #ddd; }
   .texture-blue .social i:hover {
@@ -786,13 +786,13 @@ header {
     color: #ccc; }
 
 .texture-red {
-  background-image: url("//assets/textures/red.jpg"); }
+  background-image: url("//assets/img/red.jpg"); }
 
 .texture-purple {
-  background-image: url("//assets/textures/purple.jpg"); }
+  background-image: url("//assets/img/purple.jpg"); }
 
 .texture-green {
-  background-image: url("//assets/textures/green.jpg"); }
+  background-image: url("//assets/img/green.jpg"); }
   .texture-green .post-date {
     color: #ccc; }
 
