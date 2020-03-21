@@ -4,7 +4,7 @@ email: josito@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
   Te ayudamos a llevar una vida saludable con consejos, complementos vitáminicos y alimentación natural.
 show_excerpts: true # set to true to show excerpts on the homepage
-baseurl: /
+baseurl: "/"
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this

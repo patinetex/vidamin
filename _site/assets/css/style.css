@@ -772,7 +772,7 @@ header {
         cursor: pointer; }
 
 .texture-black {
-  background-image: url("/assets/textures/black.jpg"); }
+  background-image: url("http://localhost:4000/assets/textures/black.jpg"); }
   .texture-black h2 {
     color: #999; }
 
